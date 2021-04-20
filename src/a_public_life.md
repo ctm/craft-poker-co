@@ -2,8 +2,9 @@
 
 I've not always been a public person and I still find it a bit
 unnerving.  However&mdash;and it's really hard for me to objectively
-evaluate&mdash;I believe I benefit from putting the various things
-on GitHub that I do and this is a continuation of that process.
+evaluate&mdash;I believe I benefit from putting the [various
+things](https://github.com/ctm?tab=repositories) on GitHub that I do
+and this is a continuation of that process.
 
 
 I don't know for sure that I want to put a bunch of half-baked
