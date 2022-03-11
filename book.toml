@@ -1,13 +1,13 @@
 [book]
-title = "The Business"
-description = "A description of what I'm doing with my poker software"
+title = "Craft Poker Co."
+description = "A description of Craft Poker Co."
 authors = ["Clifford T. Matthews"]
 language = "en"
 multilingual = false
 src = "src"
 
 [rust]
-edition = "2018"
+edition = "2021"
 
 [output.html]
 no-section-label = true

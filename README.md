@@ -1,3 +1,3 @@
-# The Business
+# Craft Poker Co.
 
-This is the repository for the [GitBook that documents what I'm doing with my business](https://ctm.github.io/docs/the_business/).
+This is the repository for the [GitBook that documents Craft Poker Co.](https://ctm.github.io/docs/craft-poker-co/).

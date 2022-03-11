@@ -5,8 +5,8 @@
 set -o errexit
 set -o pipefail
 
-tmp_dir='/tmp/business_book'
-github_io_dir="$(echo ~/ctm.github.io/docs/the_business)"
+tmp_dir='/tmp/craft-poker-co-book'
+github_io_dir="$(echo ~/ctm.github.io/docs/craft-poker-co)"
 
 function add_and_push() {
     git add -A
