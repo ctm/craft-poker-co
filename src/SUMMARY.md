@@ -1,4 +1,8 @@
 # Summary
 
 [Welcome](./welcome.md)
-- [A Public Life](./a_public_life.md)
+- [Preface](./preface.md)
+- [Executive Summary](./executive-summary.md)
+- [Craftpoker.com](./craftpoker.md)
+- [White-labeled sites](./white-labeled-sites.md)
+- [Partnerships](./partnerships.md)
