@@ -8,7 +8,7 @@ Initial revenue through
 
 Eventual revenue through real money sites
 
-[^1] This nice round number is akin to [running a hundred
+[^1]: This nice round number is akin to [running a hundred
 miler](https://ultrasignup.com/results_event.aspx?did=79879#id220546). I.e.,
 it's not a sprint and it's not even a marathon.  As such, it takes a
 different amount of time and preparation than either.
