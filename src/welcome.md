@@ -1,7 +1,7 @@
 # Welcome
 
 Craft Poker Co. is a Nevada C corporation, founded by me, [Cliff
-Matthews](https://ctm.github.io/docs/the_person/).
+Matthews](https://ctm.github.io/docs/yld/).
 
 This book documents some thoughts and plans associated with the company.
 Nothing within constitutes an offer, promise or in any other way obliges
